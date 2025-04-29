@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Game Dev , Lua
 - 💞️ I’m looking to collaborate on Roblox , Fivem
 - 📫 How to reach me Make some games in Roblox
-- 😄 Pronouns: Hs/Him
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm Electrical Engineer but I'm Interested about make games lol.
 
 <!---
